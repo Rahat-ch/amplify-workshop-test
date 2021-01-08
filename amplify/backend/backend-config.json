@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifyworkshoptest59fd94bd": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
